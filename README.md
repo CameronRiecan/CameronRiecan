@@ -1,9 +1,9 @@
 ## 💫 Hi there! 👋:
-#**Cameron Riecan**
-Web Developer
-Los Angeles, CA, USA
-🌐 [LinkedIn](https://www.linkedin.com/in/cameron-riecan)
-🌐 [GitHub](https://github.com/CameronRiecan)
+#**Cameron Riecan**  
+Web Developer  
+Los Angeles, CA, USA  
+🌐 [LinkedIn](https://www.linkedin.com/in/cameron-riecan)  
+🌐 [GitHub](https://github.com/CameronRiecan)  
 
 ㅡ
 
