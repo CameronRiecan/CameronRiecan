@@ -1,7 +1,5 @@
-### Hi there 👋
-
-# 💫 About Me:
-**Cameron Riecan**
+## 💫 Hi there! 👋:
+#**Cameron Riecan**
 Web Developer
 Los Angeles, CA, USA
 🌐 [LinkedIn](https://www.linkedin.com/in/cameron-riecan)
